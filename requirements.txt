@@ -7,7 +7,7 @@ Pillow
 netaddr
 scapy
 dnslib
-Twisted
+Twisted==15.0.0
 lxml
 pefile
 ipy
